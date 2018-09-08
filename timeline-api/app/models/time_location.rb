@@ -1,0 +1,3 @@
+class TimeLocation < ApplicationRecord
+   
+end
